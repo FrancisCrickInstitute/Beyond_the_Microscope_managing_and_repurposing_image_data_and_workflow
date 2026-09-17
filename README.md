@@ -8,6 +8,6 @@
  
  This presentation is written in Markdown syntax using [reveal-md](https://github.com/webpro/reveal-md) with some custom html/css scripts.
  
- The source is [here](https://github.com/FrancisCrickInstitute/Beyond_the_Microscope_managing_and_repurposing_image_data_and_workflow/Beyond_the_Microscope_managing_and_repurposing_image_data_and_workflow.md)
+ The source is [here](https://github.com/FrancisCrickInstitute/Beyond_the_Microscope_managing_and_repurposing_image_data_and_workflow/blob/main/Beyond_the_Microscope_managing_and_repurposing_image_data_and_workflow.md)
  
  Contact: [Ken Ho](mailto:kenneth.ho@crick.ac.uk)
